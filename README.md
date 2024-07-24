@@ -16,7 +16,6 @@ Dedicado a transformar dados em insights valiosos para apoiar decisões estraté
     <img align="center"alt= "PoweBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"  />
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnatanChavess&langs_count=8)
 
 ### Você também me encontra em:
 
