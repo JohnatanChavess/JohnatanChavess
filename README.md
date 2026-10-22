@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Johnatan Chaves 👋</h1>
+<h1 align="center">Olá, eu sou o Johnatan Chaves</h1>
 
 <p align="center">
   <b>Análise de Dados · Engenharia de Dados</b><br>
@@ -13,10 +13,10 @@
 
 Gosto de trabalhar com o ciclo completo dos dados: coletar, tratar, armazenar e transformar em informação que apoia decisões. Comecei pela análise e visualização de dados e hoje estou me aprofundando em **Engenharia de Dados**, construindo pipelines que levam dados brutos até um formato confiável e pronto para análise.
 
-- 🔧 Construindo projetos de pipelines de dados com Python, SQL e Docker
-- 📚 Estudando modelagem de dados, orquestração de pipelines com Apache Airflow e serviços de dados na AWS
-- 📊 Análise e visualização com Pandas, SQL, Power BI e Streamlit
-- 💬 Aberto a conversar sobre dados e oportunidades na área
+- Construindo projetos de pipelines de dados com Python, SQL e Docker
+- Estudando modelagem de dados, orquestração de pipelines com Apache Airflow e serviços de dados na AWS
+- Análise e visualização com Pandas, SQL, Power BI e Streamlit
+- Aberto a conversar sobre dados e oportunidades na área
 
 ## Projetos de dados
 
