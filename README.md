@@ -36,7 +36,7 @@ Gosto de trabalhar com o ciclo completo dos dados: coletar, tratar, armazenar e 
 
 **Bancos de dados**<br>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white">
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
 
 **Engenharia e infraestrutura**<br>
@@ -50,9 +50,3 @@ Gosto de trabalhar com o ciclo completo dos dados: coletar, tratar, armazenar e 
 
 **Na trilha de estudos**<br>
 <img alt="Apache Airflow" src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
-
-## Estatísticas
-
-<p align="center">
-  <img alt="Estatísticas do GitHub de Johnatan Chaves" src="https://github-readme-stats.vercel.app/api?username=JohnatanChavess&show_icons=true&theme=dracula&hide_border=true">
-</p>
